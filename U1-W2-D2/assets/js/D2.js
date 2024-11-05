@@ -28,9 +28,11 @@ else { console.log("not equal"); }
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 let numero5 = 25
-if (25 / 5)
+if (numero5 / 5)
   console.log("divisibile per 5");
-
+else {
+ console.log (" il numero non è divisibile per 5");
+}
 /* ESERCIZIO 4
   Scrivi un algoritmo per verificare che, dati due numeri interi, il valore di uno di essi sia 8 oppure se la loro addizione/sottrazione sia uguale a 8.
 */
